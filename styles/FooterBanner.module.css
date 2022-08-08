@@ -1,0 +1,23 @@
+.footerBannerContainer {
+  padding: 100px 40px;
+  background-color: #f02d34;
+  border-radius: 15px;
+  position: relative;
+  height: 400px;
+  line-height: 1;
+  color: white;
+  width: 100%;
+  margin-top: 120px;
+}
+
+.bannerDesc {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.bannerDesc h3 {
+  font-size: 50px;
+  padding: 50px, 0px;
+}
